@@ -1,4 +1,4 @@
 apiVersion: image.openshift.io/v1
 kind: ImageStream
 metadata:
-  name: {{ include "helm.fullname" . }}-test
+  name: {{ include "helm.fullname" . }}-test2
